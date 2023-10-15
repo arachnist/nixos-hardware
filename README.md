@@ -204,7 +204,8 @@ See code for all available configurations.
 | [Lenovo ThinkPad X1 Extreme Gen 4](lenovo/thinkpad/x1-extreme/gen4) | `<nixos-hardware/lenovo/thinkpad/x1-extreme/gen4>` |
 | [Lenovo ThinkPad X1 Nano Gen 1](lenovo/thinkpad/x1-nano/gen1)       | `<nixos-hardware/lenovo/thinkpad/x1-nano/gen1>`    |
 | [Lenovo ThinkPad X13 Yoga](lenovo/thinkpad/x13/yoga)                | `<nixos-hardware/lenovo/thinkpad/x13/yoga>`        |
-| [Lenovo ThinkPad X13](lenovo/thinkpad/x13)                          | `<nixos-hardware/lenovo/thinkpad/x13>`             |
+| [Lenovo ThinkPad X13 AMD](lenovo/thinkpad/x13/amd)                  | `<nixos-hardware/lenovo/thinkpad/x13/amd>`         |
+| [Lenovo ThinkPad X13 Intel](lenovo/thinkpad/x13/intel)              | `<nixos-hardware/lenovo/thinkpad/x13/intel>`       |
 | [Lenovo ThinkPad X140e](lenovo/thinkpad/x140e)                      | `<nixos-hardware/lenovo/thinkpad/x140e>`           |
 | [Lenovo ThinkPad X200s](lenovo/thinkpad/x200s)                      | `<nixos-hardware/lenovo/thinkpad/x200s>`           |
 | [Lenovo ThinkPad X220](lenovo/thinkpad/x220)                        | `<nixos-hardware/lenovo/thinkpad/x220>`            |
